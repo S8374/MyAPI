@@ -118,66 +118,6 @@
       "bathrooms": 2,
       "garage": "1 car",
       "view_property": "View Property"
-    },
-    {
-      "id": 7,
-      "estate_title": "Modern Loft in Urban Area",
-      "img": [
-        "https://images.pexels.com/photos/20337840/pexels-photo-20337840/free-photo-of-view-of-a-loft-style-living-room-with-a-brown-leather-sofa.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "https://images.pexels.com/photos/1879061/pexels-photo-1879061.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "https://images.pexels.com/photos/17358075/pexels-photo-17358075/free-photo-of-painting-by-sofa.jpeg?auto=compress&cs=tinysrgb&w=600"
-      ],
-      "segment_name": "Loft",
-      "description": "A trendy, modern loft in an urban area with an open floor plan and modern decor.",
-      "price": "$2,200/month",
-      "status": "rent",
-      "area": "1200 sq ft",
-      "location": "Chicago, Illinois",
-      "facilities": ["living room", "kitchen", "gym access"],
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "garage": "No garage",
-      "view_property": "View Property"
-    },
-    {
-      "id": 8,
-      "estate_title": "Cottage Retreat in the Countryside",
-      "img": [
-        "https://images.pexels.com/photos/1131573/pexels-photo-1131573.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "https://images.pexels.com/photos/4451739/pexels-photo-4451739.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "https://images.pexels.com/photos/2762181/pexels-photo-2762181.jpeg?auto=compress&cs=tinysrgb&w=600"
-      ],
-      "segment_name": "Cottage",
-      "description": "A peaceful cottage retreat surrounded by nature, perfect for relaxation.",
-      "price": "$450,000",
-      "status": "sale",
-      "area": "1500 sq ft",
-      "location": "Asheville, North Carolina",
-      "facilities": ["living room", "garden", "kitchen", "fireplace"],
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "garage": "1 car",
-      "view_property": "View Property"
-    },
-    {
-      "id": 9,
-      "estate_title": "Townhouse with Modern Amenities",
-      "img": [
-        "https://images.pexels.com/photos/15940461/pexels-photo-15940461/free-photo-of-clouds-over-street-in-town-with-palm-trees-after-rain.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=600"
-      ],
-      "segment_name": "Townhouse",
-      "description": "A contemporary townhouse with all modern amenities and a private rooftop.",
-      "price": "$3,500/month",
-      "status": "rent",
-      "area": "1600 sq ft",
-      "location": "Seattle, Washington",
-      "facilities": ["living room", "kitchen", "rooftop", "garage"],
-      "bedrooms": 3,
-      "bathrooms": 2.5,
-      "garage": "1 car",
-      "view_property": "View Property"
     }
   ]
   
